@@ -10,7 +10,7 @@ f = open(OUTPUT,'wb')
 counter = 0;
 
 try:
-	with open(INPUT,newline='') as csvfile:
+	with open(INPUT,newline='',encoding='Windows-1252') as csvfile:
 		csvreader = csv.reader(csvfile)
 		for row in csvreader:
 			oldname = row[0]
@@ -31,9 +31,9 @@ try:
 
 			print(oldlenInt, oldname.ljust(40), newlenInt, newname.ljust(40))
 			f.write(oldlenBin)
-			f.write(str.encode(oldname.ljust(40)))
+			f.write(oldname.ljust(40).encode('Windows-1252'))
 			f.write(newlenBin)
-			f.write(str.encode(newname.ljust(40)))
+			f.write(newname.ljust(40).encode('Windows-1252'))
 	print("Processed", counter,"names")
 except:
 	print("Problem reading",INPUT)
