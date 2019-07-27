@@ -19,7 +19,6 @@ except IndexError:
 except:
     print("Unexpected error:", sys.exc_info()[0])
     raise
-
 print('Using Clements',CLEMENTS)
 OLDEDT = 'MASTER.OLD.EDT'	# Renamed copy of MASTER.EDT for the old AviSys level
 
@@ -41,12 +40,19 @@ exKeep = setExtinctKeep()
 ABAstatus = {}
 lostName = {}
 
-for line in open(OLDEDT).readlines():
-	token = line.split(',')
-	common = token[0].strip()
-	AviSysSequence = token[4].rstrip()
-	ABAstatus[common] = token[3]
-	lostName[common] = 'F' if AviSysSequence == '0' else 'S'	# Family or Species name
+try:
+	for line in open(OLDEDT).readlines():
+		token = line.split(',')
+		common = token[0].strip()
+		AviSysSequence = token[4].rstrip()
+		ABAstatus[common] = token[3]
+		lostName[common] = 'F' if AviSysSequence == '0' else 'S'	# Family or Species name
+except FileNotFoundError:
+	print('Error:',OLDEDT,'does not exist. Cannot continue.')
+	raise SystemExit
+except:
+    print("Unexpected error while opening:",OLDEDT,sys.exc_info()[0])
+    raise
 
 subspeciesOutput = []
 counter = 1
