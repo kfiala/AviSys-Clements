@@ -1,17 +1,17 @@
 # Code for performing Clements taxonomy update for Avisys
 
-1. Clone the repository to a work folder
+1. Clone the repository to a work folder.
 
 1. Open a Powershell window with the work folder as the current directory. You will run scripts from there.
 
-1. Run `python scripts\makeEDT.py C:\AVI6\datafolder\MASTER.AVI` in the work folder
-   (substitute the name of a valid AviSys data folder for "datafolder").
+1. Run `python scripts\makeEDT.py C:\AVI6\{datafolder}\MASTER.AVI` in the work folder
+   (substitute the name of a valid AviSys data folder for "{datafolder}").
    This will create **MASTER.EDT** in the work folder; rename it as **MASTER.OLD.EDT**.
    It also creates **Hawaii-only.txt** which may be of interest but is not otherwise used.
 
-1. Download Clements checklist in CSV format to work folder.
+1. Download Clements checklist in CSV format to the work folder.
 
-1. Download the current ABA checklist in CSV format to work folder.
+1. Download the current ABA checklist in CSV format to the work folder.
 
 1. Check for any changes in the format of either CSV file and update `clements.py` and/or `ABA.py` accordingly.
 
@@ -50,9 +50,15 @@ update **AOS diffs.csv** and run `clements.py` again.
    Edit each "text for website" value and delete everything except for the old English name,
    so that you end up with just two columns, old names in column A and new names in column B.
    Save the new spreadsheet as **NEWNAMES11.AVI.CSV**.
-   Run `python scripts\makenewnames.py` to create **NEWNAMES11.AVI** from **NEWNAMES11.AVI.CSV**.
 
-   1. Delete all remaining lines from **changes.csv** except for those where the "Clements change" mentions "lump" or "split" and save **changes.csv** for later.
+   1. Delete all remaining lines from **changes.csv** except for those where the "Clements change" mentions "lump" or "split", or other species changes such as "new species", "species deletion", "reassign subspecies", etc., and save **changes.csv** for later.
+
+   1. Run `python scripts\makenewnames.py` to create **NEWNAMES11.AVI** from **NEWNAMES11.AVI.CSV**.
+
+1. Copy MASTER.UPD and NEWNAMES11.AVI to the data folder, and SSDATA.AVI to the main folder, and run the update.
+
+   Then run `python scripts\makeEDT.py C:\AVI6\{datafolder}\MASTER.AVI` in the work folder again to get the final version of
+   **MASTER.EDT**. This version will have any changes in N.A. status applied, needed for bandcode generation.
 
 1. Update **bandcode.exceptions.csv** as necessary
 
@@ -102,3 +108,5 @@ update **AOS diffs.csv** and run `clements.py` again.
 
    2. **changes.csv**: Tabulate splits and lumps in **changes.html**.
    This is a time-consuming step and I may not do it in the future, since the Clements summary is fairly good.
+
+1. Run the entire update to test it.
