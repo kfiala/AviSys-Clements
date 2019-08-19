@@ -69,16 +69,16 @@ with open(CLEMENTS) as csvfile:
 			headerSeen = True
 			CSVwriter.writeheader()
 			continue
-		sort = row['sort']
-		change = row['Clements change']
-		text = row['text for website']
-		category = row['category']
-		common = row['English name']
+		sort = row['sort'].rstrip()
+		change = row['Clements change'].rstrip()
+		text = row['text for website'].rstrip()
+		category = row['category'].rstrip()
+		common = row['English name'].rstrip()
 		scientific = row['scientific name']
-		range = row['range']
-		order = row['order']
-		family = row['family']
-		extinct = row['extinct']
+		range = row['range'].rstrip()
+		order = row['order'].rstrip()
+		family = row['family'].rstrip()
+		extinct = row['extinct'].rstrip()
 
 		text = text.replace("’","'")	# ASCII single quotes
 		common = common.replace("’","'")
