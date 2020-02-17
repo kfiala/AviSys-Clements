@@ -107,6 +107,6 @@ update **AOS diffs.csv** and run `clements.py` again.
    1. **NEWNAMES11.AVI.CSV**: Tabulate name changes in **renames.html**.
 
    2. **changes.csv**: Tabulate splits and lumps in **changes.html**.
-   This is a time-consuming step and I may not do it in the future, since the Clements summary is fairly good.
+   This is a time-consuming step and I am no longer doing it as of 2019, since the information is all available in the Clements summary anyway.
 
 1. Run the entire update to test it.
