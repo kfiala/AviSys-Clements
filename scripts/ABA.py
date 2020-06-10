@@ -12,7 +12,7 @@ def readABAcsv():
 		raise SystemExit
 	except:
 		print("Unexpected error:", sys.exc_info()[0])
-		raise
+		raise SystemExit
 	else:
 		print('Using ABA checklist',ABAcsv)
 

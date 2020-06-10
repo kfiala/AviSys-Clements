@@ -18,7 +18,7 @@ except IndexError:
 	raise SystemExit
 except:
     print("Unexpected error:", sys.exc_info()[0])
-    raise
+    raise SystemExit
 print('Using Clements',CLEMENTS)
 OLDEDT = 'MASTER.OLD.EDT'	# Renamed copy of MASTER.EDT for the old AviSys level
 
