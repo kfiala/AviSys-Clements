@@ -68,6 +68,9 @@ with open(EXCEPTIONS) as csvfile:
 			continue
 		species = row[1].strip()
 		if basecode in codes:
+			if basecode not in bandcode:
+				print(basecode,'is listed as a duplicate in',EXCEPTIONS,'but is not currently a duplicate code; skipping')
+				continue
 			dups = bandcode[basecode]
 			if species in dups:
 				offset = dups.index(species)

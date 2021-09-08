@@ -80,6 +80,9 @@ with open(CLEMENTS) as csvfile:
 		family = row['family'].rstrip()
 		extinct = row['extinct'].rstrip()
 
+		if float(sort) < 1.0:
+			continue
+
 		text = text.replace("’","'")	# ASCII single quotes
 		common = common.replace("’","'")
 		range = range.replace("’","'")

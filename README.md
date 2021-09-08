@@ -9,7 +9,8 @@
    This will create **MASTER.EDT** in the work folder; rename it as **MASTER.OLD.EDT**.
    It also creates **Hawaii-only.txt** which may be of interest but is not otherwise used.
 
-1. Download Clements checklist in CSV format to the work folder.
+1. Download Clements checklist in CSV format to the work folder. Note: I have found the provided CSV format checklist
+   to have improper encoding. For better results, I download the XLSX file and create my own CSV format file.
 
 1. Download the current ABA checklist in CSV format to the work folder.
 
@@ -33,9 +34,12 @@ update **AOS diffs.csv** and run `clements.py` again.
 
     | Long name | Shortened name
     | --------- | ---
-    | TIT BERRYPECKER AND CRESTED BERRYPECKER |  TIT BERRYPECKER~ CRESTED BERRYPECKER
-    | VIREOS~ SHRIKE-BABBLERS~ AND ERPORNIS   |  VIREOS~ SHRIKE-BABBLERS~ ERPORNIS
-    | TREE-BABBLERS~ SCIMITAR-BABBLERS~ AND ALLIES |  TREE-BABBLERS~ SCIMITAR-BABBLERS ETC
+    | SHARPBILL~ ROYAL FLYCATCHER~ AND ALLIES | SHARPBILL~ ROYAL FLYCATCHER & ALLIES
+    | TIT BERRYPECKER AND CRESTED BERRYPECKER | TIT BERRYPECKER~ CRESTED BERRYPECKER
+    | VIREOS~ SHRIKE-BABBLERS~ AND ERPORNIS | VIREOS~ SHRIKE-BABBLERS~ ERPORNIS
+    | WOODSWALLOWS~ BELLMAGPIES~ AND ALLIES | WOODSWALLOWS~ BELLMAGPIES~ & ALLIES
+    | SYLVIID WARBLERS~ PARROTBILLS~ AND ALLIES | SYLVIID WARBLERS~ PARROTBILLS~ ETC
+    | TREE-BABBLERS~ SCIMITAR-BABBLERS~ AND ALLIES | TREE-BABBLERS~ SCIMITAR-BABBLERS ETC
 
 1. Run `python scripts\makeUpdate.py` to create **MASTER.UPD**.
    For informational purposes, the file **non-ABA.txt** is also created to list non-ABA species found on state checklists.
@@ -55,7 +59,7 @@ update **AOS diffs.csv** and run `clements.py` again.
 
    1. Run `python scripts\makenewnames.py` to create **NEWNAMES11.AVI** from **NEWNAMES11.AVI.CSV**.
 
-1. Copy MASTER.UPD and NEWNAMES11.AVI to the data folder, and SSDATA.AVI to the main folder, and run the update.
+1. Copy MASTER.UPD and NEWNAMES11.AVI to the data folder, and SSDATA.AVI to the main folder, and run the update. **Resolve any conflicts** and rerun as necessary.
 
    Then run `python scripts\makeEDT.py C:\AVI6\{datafolder}\MASTER.AVI` in the work folder again to get the final version of
    **MASTER.EDT**. This version will have any changes in N.A. status applied, needed for bandcode generation.
@@ -63,7 +67,8 @@ update **AOS diffs.csv** and run `clements.py` again.
 1. Update **bandcode.exceptions.csv** as necessary
 
 1. Run `python scripts\bandcodes.py` to create **BANDCODE.new.AVI** and **BANDSEL.new.AVI**.
-   Rename these files as **BANDCODE.AVI** and **BANDSEL.AVI**.
+   Compare new with old to check for new conflicts. If there are any, update **bandcode.exceptions.csv** and run `bandcodes.py` again.
+   Rename the new files as **BANDCODE.AVI** and **BANDSEL.AVI**.
 
 1. Edit **BANDSEL.AVI** to sort each list with most likely species first.
 
@@ -92,16 +97,29 @@ update **AOS diffs.csv** and run `clements.py` again.
     ruwa rüppell's warbler
     ruwe rüppell's weaver      dup
     ```
-1. Create a folder named **update files** with two subfolders **For Data Folder** and **For Main Folder**.
 
-1. Copy (or move) files to their destination:
+1. Copy (or move) these files to folder NSIS:
+   ```
+   `Alias.avi`
+   `Alpha.avi`
+   `BANDCODE.AVI`
+   `BANDSEL.AVI`
+   `Famfile.avi`
+   `SSDATA.AVI`
+   `Walias.avi`
+   `Wfam.avi`
+   `Wfam2.avi`
+   ```
 
-    | File | Destination folder |
-    | ---- | --- |
-    | `MASTER.UPD`, `NEWNAMES11.AVI`, `WLDCODE.AVI`, `WORLDSEL.AVI` | `\update files\For Data Folder` |
-    | `Alias.avi`, `Alpha.avi`, `BANDCODE.AVI`, `BANDSEL.AVI`, `Famfile.avi`, `SSDATA.AVI`, `Walias.avi`, `Wfam.avi`, `Wfam2.avi` | `\update files\For Main folder`|
+1. Copy (or move) these files to folder NSIS\DATA:
+   ```
+   `MASTER.UPD`
+   `NEWNAMES11.AVI`
+   `WLDCODE.AVI`
+   `WORLDSEL.AVI`
+   ```
 
-1. Package the **update files** folder for distribution.
+1. Package the **update files** folder for distribution via NSIS.
 
 1. Documentation: Edit **changes.csv** again, and also **NEWNAMES11.AVI.CSV**.
    1. **NEWNAMES11.AVI.CSV**: Tabulate name changes in **renames.html**.
