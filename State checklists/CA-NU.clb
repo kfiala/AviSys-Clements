@@ -1,6 +1,5 @@
-; https://avibase.bsc-eoc.org/checklist.jsp?lang=EN&p2=1&list=aou&synlang=&region=CAnu&version=text&lifelist=&highlight=0&lang=EN&p2=1&list=aou&synlang=&region=CAnu&version=text&lifelist=&highlight=0
-; Retrieved 29 Aug 2018   Dated 2018-07-07
-; Checked 16 July 2019
+; https://avibase.bsc-eoc.org/checklist.jsp?lang=EN&p2=1&list=clements&synlang=&region=CAnu&version=text&lifelist=&highlight=0
+; Retrieved 6 July 2021   Dated 2020-12-20
 
 Alder Flycatcher
 American Avocet
@@ -37,6 +36,7 @@ Black Tern
 Black-and-white Warbler
 Black-backed Woodpecker
 Black-bellied Plover
+Black-billed Cuckoo
 Black-billed Magpie
 Black-browed Albatross
 Black-capped Chickadee
@@ -46,12 +46,14 @@ Black-throated Blue Warbler
 Black-throated Green Warbler
 Blackburnian Warbler
 Blackpoll Warbler
+Blue Jay
 Blue-headed Vireo
 Blue-winged Teal
 Bobolink
 Bohemian Waxwing
 Bonaparte's Gull
 Boreal Chickadee
+Boreal Owl
 Brant
 Brewer's Blackbird
 Brown Creeper
@@ -63,10 +65,13 @@ Cackling Goose
 California Gull
 Canada Goose
 Canada Jay
+Canvasback
 Cape May Warbler
 Caspian Tern
 Cattle Egret
 Cedar Waxwing
+Chestnut-collared Longspur
+Chestnut-sided Warbler
 Chimney Swift
 Chipping Sparrow
 Clay-colored Sparrow
@@ -83,6 +88,7 @@ Common Redpoll
 Common Ringed Plover
 Common Tern
 Common Yellowthroat
+Connecticut Warbler
 Corn Crake
 Dark-eyed Junco
 Double-crested Cormorant
@@ -103,15 +109,18 @@ Glaucous Gull
 Glaucous-winged Gull
 Golden Eagle
 Golden-crowned Kinglet
+Golden-crowned Sparrow
 Gray Catbird
 Gray-cheeked Thrush
 Gray-crowned Rosy-Finch
-Great Auk
 Great Black-backed Gull
 Great Blue Heron
 Great Crested Flycatcher
+Great Egret
+Great Gray Owl
 Great Horned Owl
 Great Shearwater
+Great Skua
 Greater Scaup
 Greater White-fronted Goose
 Greater Yellowlegs
@@ -133,6 +142,7 @@ House Wren
 Hudsonian Godwit
 Iceland Gull
 Ivory Gull
+Kentucky Warbler
 Killdeer
 King Eider
 Lapland Longspur
@@ -149,11 +159,11 @@ Long-billed Curlew
 Long-eared Owl
 Long-tailed Duck
 Long-tailed Jaeger
+MacGillivray's Warbler
 Magnolia Warbler
 Mallard
 Marbled Godwit
 Merlin
-Mew Gull
 Mountain Bluebird
 Mourning Dove
 Nashville Warbler
@@ -174,6 +184,7 @@ Northern Wheatear
 Olive-sided Flycatcher
 Orange-crowned Warbler
 Osprey
+Ovenbird
 Pacific Loon
 Painted Bunting
 Palm Warbler
@@ -183,8 +194,10 @@ Pectoral Sandpiper
 Peregrine Falcon
 Philadelphia Vireo
 Pied-billed Grebe
+Pileated Woodpecker
 Pine Grosbeak
 Pine Siskin
+Pink-footed Goose
 Piping Plover
 Pomarine Jaeger
 Purple Finch
@@ -206,11 +219,12 @@ Redhead
 Ring-billed Gull
 Ring-necked Duck
 Rock Ptarmigan
-Rose-breasted Grosbeak
 Ross's Goose
 Ross's Gull
 Rough-legged Hawk
 Ruby-crowned Kinglet
+Ruddy Duck
+Ruddy Shelduck
 Ruddy Turnstone
 Ruff
 Rufous Hummingbird
@@ -248,6 +262,7 @@ Swamp Sparrow
 Tennessee Warbler
 Thick-billed Murre
 Townsend's Solitaire
+Townsend's Warbler
 Tree Swallow
 Trumpeter Swan
 Tundra Swan
@@ -262,7 +277,6 @@ Western Tanager
 Whimbrel
 White-crowned Sparrow
 White-rumped Sandpiper
-White-tailed Ptarmigan
 White-throated Sparrow
 White-winged Crossbill
 White-winged Dove
@@ -275,6 +289,7 @@ Wilson's Storm-Petrel
 Wilson's Warbler
 Winter Wren
 Wood Duck
+Wood Thrush
 Yellow Rail
 Yellow Warbler
 Yellow-bellied Flycatcher
