@@ -9,10 +9,12 @@
    This will create **MASTER.EDT** in the work folder; rename it as **MASTER.OLD.EDT**.
    It also creates **Hawaii-only.txt** which may be of interest but is not otherwise used.
 
-1. Download Clements checklist in CSV format to the work folder. Note: I have found the provided CSV format checklist
+1. Download Clements checklist in CSV format to the work folder. Note: I have sometimes found the provided CSV format checklist
    to have improper encoding. For better results, I download the XLSX file and create my own CSV format file.
+   Make sure that the file name matches the pattern "`Clements-Checklist*.csv`" and is the only match.
 
 1. Download the current ABA checklist in CSV format to the work folder.
+   Make sure the filename matches the pattern '`ABA_Checklist-*.csv`' and is the only match.
 
 1. Check for any changes in the format of either CSV file and update `clements.py` and/or `ABA.py` accordingly.
 
