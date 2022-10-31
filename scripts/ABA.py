@@ -22,7 +22,7 @@ def readABAcsv():
 
 	started = False
 	with open(ABAcsv,newline='') as csvfile:
-		csvreader = csv.DictReader(csvfile,fieldnames=['family','comName','sciName','FLBC','ABAcode'])
+		csvreader = csv.DictReader(csvfile,fieldnames=['family','comName','frenchName','sciName','FLBC','ABAcode'])
 		for row in csvreader:
 			if row['family']:
 				started = True

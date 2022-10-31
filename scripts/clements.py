@@ -30,7 +30,7 @@ LOSTNAMES =			open('lostnames.txt','w')
 LONGNAMES =			open('longnames.txt','w')
 CHANGES = 			open('changes.csv','w', newline='')
 
-csvFields = ['sort','Clements change','text for website','category','English name','scientific name','range','order','family','extinct']
+csvFields = ['sort','Clements change','text for website','category','English name','scientific name','authority','name and authority','range','order','family','extinct']
 
 from clementsFunctions import setExtinctKeep
 
