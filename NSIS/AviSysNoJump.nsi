@@ -51,12 +51,6 @@ SetOutPath $INSTDIR
 File SSDATA.AVI
 File BANDCODE.AVI
 File BANDSEL.AVI
-File Alias.avi
-File Alpha.avi
-File Famfile.avi
-File Walias.avi
-File Wfam.avi
-File Wfam2.avi
 
 ; Data folder
 SetOutPath $DATA_FOLDER
