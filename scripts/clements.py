@@ -30,7 +30,8 @@ LOSTNAMES =			open('lostnames.txt','w')
 LONGNAMES =			open('longnames.txt','w')
 CHANGES = 			open('changes.csv','w', newline='')
 
-csvFields = ['sort','Clements change','text for website','category','English name','scientific name','authority','name and authority','range','order','family','extinct']
+csvFields = ['sort', 'species_code', 'taxon_concept_id', 'Clements change', 'text for website', 'category', 'English name', 'scientific name', 'authority', 'name and authority', 'range', 'order', 'family', 'extinct']
+
 
 from clementsFunctions import setExtinctKeep
 
@@ -56,7 +57,6 @@ except:
 
 subspeciesOutput = []
 counter = 1
-prevfam = ''
 
 import csv
 CSVwriter = csv.DictWriter(CHANGES,fieldnames=csvFields)
@@ -114,6 +114,25 @@ with open(CLEMENTS) as csvfile:
 			continue
 
 #  Process the record according to its 'category'
+		if category == 'family':
+
+			engfam = common.upper().replace(',','~')
+			scifam = scientific.upper()
+
+			if engfam in ABAstatus:
+				ABA = ABAstatus[engfam]
+				del lostName[engfam]	# This name is in the new taxonomy; not lost
+			else:
+				ABA = 'W'	#  This family is not in the old MASTER.EDT. Mark it non-ABA and record it as a new name.
+				NEWNAMES.write('F '+engfam+'\n')
+
+# 				Format the family entry line, and insert it
+			MASTEREDT.write(engfam+','+order.upper()+','+scifam+','+ABA+',0\n')
+
+# 				Warn about long names that we will have to fix manually
+			if len(engfam) > 36: 	LONGNAMES.write('Family name > 36 chars: '+engfam+'\n')
+			if len(order) > 24: 	LONGNAMES.write('Order name > 24 chars: '+order+'\n')
+			if len(scifam) > 24: 	LONGNAMES.write('Family name > 24 chars: '+scifam+'\n')
 
 		if category == 'species':
 # 			Flush the accumulated subspecies data. If there is only one datum,
@@ -127,35 +146,6 @@ with open(CLEMENTS) as csvfile:
 			s = species[0]
 			initials = '-- '+g+'. '+s+'.'
 
-# The record contains both species and family. Only if it's a new family, process family.
-			if family != prevfam:	# New family
-				prevfam = family
-#				family = family.upper()
-#				order = order.upper()
-				famnames = family.split('(')
-				scifam = famnames[0]
-				engfam = famnames[1].rstrip()
-				engfam = engfam.rstrip(')')
-				engfam = engfam.replace(',','~')
-				scifam = scifam.upper()
-				engfam = engfam.upper()
-
-				if engfam in ABAstatus:
-					ABA = ABAstatus[engfam]
-					del lostName[engfam]	# This name is in the new taxonomy; not lost
-				else:
-					ABA = 'W'	#  This family is not in the old MASTER.EDT. Mark it non-ABA and record it as a new name.
-					NEWNAMES.write('F '+engfam+'\n')
-
-# 				Format the family entry line, and insert it
-				MASTEREDT.write(engfam+','+order.upper()+','+scifam+','+ABA+',0\n'.upper())
-
-# 				Warn about long names that we will have to fix manually
-				if len(engfam) > 36: 	LONGNAMES.write('Family name > 36 chars: '+engfam+'\n')
-				if len(order) > 24: 	LONGNAMES.write('Order name > 24 chars: '+order+'\n')
-				if len(scifam) > 24: 	LONGNAMES.write('Family name > 24 chars: '+scifam+'\n')
-
-# 			Now deal with the species in the record
 			if common in ABAstatus:
 				ABA = ABAstatus[common]
 				del lostName[common]	# This name is in the new taxonomy; not lost
@@ -202,7 +192,7 @@ with open(CLEMENTS) as csvfile:
 			else:
 				print('Cannot parse line',sort)
 				break
-		elif category in ['slash','spuh','hybrid','domestic','form','intergrade']:
+		elif category in ['slash','spuh','hybrid','domestic','form','intergrade','family']:
 			pass
 		else:
 			print('Unknown category ',category,' for line',sort)

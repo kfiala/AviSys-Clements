@@ -1,5 +1,5 @@
-Name "AviSys taxonomy update--Clements 2022"
-OutFile "AviSys Clements 2022 Taxonomy.exe"
+Name "AviSys taxonomy update--Clements 2023"
+OutFile "AviSys Clements 2023 Taxonomy.exe"
 Unicode True
 InstallDir "C:\AVI6\"
 BrandingText "AviSys taxonomy update"
@@ -8,7 +8,7 @@ BrandingText "AviSys taxonomy update"
 !Include TextFunc.nsh
 
 !define MUI_TEXT_DIRECTORY_TITLE "AviSys"
-!define MUI_TEXT_DIRECTORY_SUBTITLE "Clements Taxonomy Update 2022"
+!define MUI_TEXT_DIRECTORY_SUBTITLE "Clements Taxonomy Update 2023"
 
 DirText 'Select your AviSys main folder. Normally this will be C:\AVI6 as shown below. \
    If so, simply click "Next >". \
