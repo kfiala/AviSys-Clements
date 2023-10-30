@@ -1,5 +1,5 @@
 ; https://oregonbirding.org/
-; Retrieved 25 October 2022  Dated October 2021
+; Retrieved 15 October 2023  Dated July 2023
 
 Acorn Woodpecker
 Alder Flycatcher
@@ -12,6 +12,7 @@ American Crow
 American Dipper
 American Golden-Plover
 American Goldfinch
+American Goshawk
 American Kestrel
 American Pipit
 American Redstart
@@ -22,6 +23,7 @@ American White Pelican
 American Wigeon
 Ancient Murrelet
 Anna's Hummingbird
+Antipodean Albatross
 Arctic Loon
 Arctic Tern
 Arctic Warbler
@@ -60,7 +62,7 @@ Black-billed Magpie
 Black-capped Chickadee
 Black-chinned Hummingbird
 Black-chinned Sparrow
-Black-crowned Night-Heron
+Black-crowned Night Heron
 Black-footed Albatross
 Black-headed Grosbeak
 Black-headed Gull
@@ -124,7 +126,7 @@ Cassin's Finch
 Cassin's Kingbird
 Cassin's Sparrow
 Cassin's Vireo
-Cattle Egret
+Cave Swallow
 Cedar Waxwing
 Chestnut-backed Chickadee
 Chestnut-collared Longspur
@@ -137,6 +139,7 @@ Clark's Grebe
 Clark's Nutcracker
 Clay-colored Sparrow
 Cliff Swallow
+Common Crane
 Common Eider
 Common Gallinule
 Common Goldeneye
@@ -154,7 +157,6 @@ Common Tern
 Common Yellowthroat
 Cook's Petrel
 Cooper's Hawk
-Cordilleran Flycatcher
 Costa's Hummingbird
 Crested Caracara
 Curlew Sandpiper
@@ -167,6 +169,7 @@ Dunlin
 Dusky Flycatcher
 Dusky Grouse
 Dusky Thrush
+Dusky Warbler
 Dusky-capped Flycatcher
 Eared Grebe
 Eastern Bluebird
@@ -186,6 +189,7 @@ European Starling
 Evening Grosbeak
 Falcated Duck
 Ferruginous Hawk
+Field Sparrow
 Flammulated Owl
 Flesh-footed Shearwater
 Fork-tailed Storm-Petrel
@@ -271,7 +275,6 @@ LeConte's Sparrow
 Lesser Black-backed Gull
 Lesser Goldfinch
 Lesser Nighthawk
-Lesser Sand-Plover
 Lesser Scaup
 Lesser Yellowlegs
 Lewis's Woodpecker
@@ -298,7 +301,6 @@ Manx Shearwater
 Marbled Godwit
 Marbled Murrelet
 Marsh Wren
-Masked Booby
 McKay's Bunting
 Merlin
 Mottled Petrel
@@ -314,7 +316,6 @@ Nazca Booby
 Northern Bobwhite
 Northern Flicker
 Northern Fulmar
-Northern Goshawk
 Northern Harrier
 Northern Hawk Owl
 Northern Mockingbird
@@ -338,7 +339,6 @@ Ovenbird
 Pacific Golden-Plover
 Pacific Loon
 Pacific Wren
-Pacific-slope Flycatcher
 Painted Bunting
 Painted Redstart
 Palm Warbler
@@ -432,11 +432,13 @@ Short-billed Gull
 Short-eared Owl
 Short-tailed Albatross
 Short-tailed Shearwater
+Siberian Sand-Plover
 Slaty-backed Gull
 Smew
 Smith's Longspur
 Snow Bunting
 Snow Goose
+Snowy Albatross
 Snowy Egret
 Snowy Owl
 Snowy Plover
@@ -488,11 +490,12 @@ Vesper Sparrow
 Violet-green Swallow
 Virginia Rail
 Virginia's Warbler
-Wandering Albatross
 Wandering Tattler
 Warbling Vireo
 Wedge-tailed Shearwater
 Western Bluebird
+Western Cattle Egret
+Western Flycatcher
 Western Grebe
 Western Gull
 Western Kingbird
@@ -541,7 +544,6 @@ Yellow-bellied Sapsucker
 Yellow-billed Cuckoo
 Yellow-billed Loon
 Yellow-breasted Chat
-Yellow-crowned Night-Heron
 Yellow-headed Blackbird
 Yellow-rumped Warbler
 Yellow-throated Vireo

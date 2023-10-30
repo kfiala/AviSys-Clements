@@ -1,5 +1,5 @@
 ; https://californiabirds.org/checklist.asp
-; Retrieved 12 Oct 2022     Dated 5 August 2022 681 species + 5 "of uncertain natural occurrence"
+; Retrieved 15 August 2023     Dated 6 July 2023 683 species + 6 "of uncertain natural occurrence"
 
 Abert's Towhee
 Acorn Woodpecker
@@ -13,6 +13,7 @@ American Crow
 American Dipper
 American Golden-Plover
 American Goldfinch
+American Goshawk
 American Kestrel
 American Oystercatcher
 American Pipit
@@ -71,7 +72,7 @@ Black-billed Magpie
 Black-capped Chickadee
 Black-chinned Hummingbird
 Black-chinned Sparrow
-Black-crowned Night-Heron
+Black-crowned Night Heron
 Black-footed Albatross
 Black-headed Grosbeak
 Black-headed Gull
@@ -148,7 +149,6 @@ Cassin's Finch
 Cassin's Kingbird
 Cassin's Sparrow
 Cassin's Vireo
-Cattle Egret
 Cave Swallow
 Cedar Waxwing
 Cerulean Warbler
@@ -193,7 +193,6 @@ Common Yellowthroat
 Connecticut Warbler
 Cook's Petrel
 Cooper's Hawk
-Cordilleran Flycatcher
 Cory's Shearwater
 Costa's Hummingbird
 Couch's Kingbird
@@ -350,7 +349,6 @@ Lesser Black-backed Gull
 Lesser Frigatebird
 Lesser Goldfinch
 Lesser Nighthawk
-Lesser Sand-Plover
 Lesser Scaup
 Lesser Yellowlegs
 Lewis's Woodpecker
@@ -406,7 +404,6 @@ Northern Cardinal
 Northern Flicker
 Northern Fulmar
 Northern Gannet
-Northern Goshawk
 Northern Harrier
 Northern Mockingbird
 Northern Parula
@@ -432,7 +429,6 @@ Ovenbird
 Pacific Golden-Plover
 Pacific Loon
 Pacific Wren
-Pacific-slope Flycatcher
 Painted Bunting
 Painted Redstart
 Palm Warbler
@@ -545,8 +541,10 @@ Short-billed Gull
 Short-eared Owl
 Short-tailed Albatross
 Short-tailed Shearwater
+Siberian Sand-Plover
 Siberian Stonechat
 Slaty-backed Gull
+Small-billed Elaenia
 Smew
 Smith's Longspur
 Snow Bunting
@@ -615,12 +613,13 @@ Violet-crowned Hummingbird
 Violet-green Swallow
 Virginia Rail
 Virginia's Warbler
-Wandering Albatross
 Wandering Tattler
 Warbling Vireo
 Wedge-rumped Storm-Petrel
 Wedge-tailed Shearwater
 Western Bluebird
+Western Cattle Egret
+Western Flycatcher
 Western Grebe
 Western Gull
 Western Kingbird
@@ -655,6 +654,7 @@ Wild Turkey
 Willet
 Williamson's Sapsucker
 Willow Flycatcher
+Willow Warbler
 Wilson's Phalarope
 Wilson's Plover
 Wilson's Snipe
@@ -665,10 +665,12 @@ Wood Duck
 Wood Sandpiper
 Wood Stork
 Wood Thrush
+Wood Warbler
 Woodhouse's Scrub-Jay
 Worm-eating Warbler
 Wrentit
 Xantus's Hummingbird
+Yellow Grosbeak
 Yellow Rail
 Yellow Warbler
 Yellow-bellied Flycatcher
@@ -679,7 +681,7 @@ Yellow-billed Magpie
 Yellow-breasted Chat
 Yellow-browed Warbler
 Yellow-chevroned Parakeet
-Yellow-crowned Night-Heron
+Yellow-crowned Night Heron
 Yellow-footed Gull
 Yellow-green Vireo
 Yellow-headed Blackbird

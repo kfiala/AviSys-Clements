@@ -1,6 +1,5 @@
 ; https://www.oiseauxqc.org/listeannotee.jsp
-; Retrieved 8 October 2022    Dated 2022-09-15
-; Added three species listed as 2021 updates
+; Retrieved 14 August 2023    Dated 2023-08-02
 
 Acadian Flycatcher
 Alder Flycatcher
@@ -11,6 +10,7 @@ American Coot
 American Crow
 American Golden-Plover
 American Goldfinch
+American Goshawk
 American Kestrel
 American Oystercatcher
 American Pipit
@@ -27,6 +27,7 @@ Anna's Hummingbird
 Arctic Tern
 Ash-throated Flycatcher
 Atlantic Puffin
+Atlantic Yellow-nosed Albatross
 Baird's Sandpiper
 Bald Eagle
 Baltimore Oriole
@@ -54,7 +55,7 @@ Black-billed Cuckoo
 Black-billed Magpie
 Black-capped Chickadee
 Black-capped Vireo
-Black-crowned Night-Heron
+Black-crowned Night Heron
 Black-headed Grosbeak
 Black-headed Gull
 Black-legged Kittiwake
@@ -102,7 +103,6 @@ Canvasback
 Cape May Warbler
 Carolina Wren
 Caspian Tern
-Cattle Egret
 Cave Swallow
 Cedar Waxwing
 Cerulean Warbler
@@ -130,6 +130,7 @@ Common Nighthawk
 Common Raven
 Common Redpoll
 Common Ringed Plover
+Common Scoter
 Common Shelduck
 Common Swift
 Common Tern
@@ -245,6 +246,7 @@ LeConte's Sparrow
 Lesser Black-backed Gull
 Lesser Scaup
 Lesser Yellowlegs
+Lewis's Woodpecker
 Lincoln's Sparrow
 Little Blue Heron
 Little Egret
@@ -277,7 +279,6 @@ Northern Cardinal
 Northern Flicker
 Northern Fulmar
 Northern Gannet
-Northern Goshawk
 Northern Harrier
 Northern Hawk Owl
 Northern Lapwing
@@ -295,6 +296,7 @@ Orange-crowned Warbler
 Orchard Oriole
 Osprey
 Ovenbird
+Pacific Golden-Plover
 Pacific Loon
 Painted Bunting
 Painted Redstart
@@ -375,7 +377,9 @@ Sharp-tailed Sandpiper
 Short-billed Dowitcher
 Short-billed Gull
 Short-eared Owl
+Siberian Sand-Plover
 Slaty-backed Gull
+Small-billed Elaenia
 Smith's Longspur
 Snow Bunting
 Snow Goose
@@ -391,7 +395,6 @@ Spotted Sandpiper
 Spotted Towhee
 Spruce Grouse
 Steller's Eider
-Steller's Jay
 Steller's Sea-Eagle
 Stilt Sandpiper
 Summer Tanager
@@ -422,6 +425,7 @@ Vesper Sparrow
 Violet-green Swallow
 Virginia Rail
 Warbling Vireo
+Western Cattle Egret
 Western Grebe
 Western Kingbird
 Western Meadowlark
@@ -462,11 +466,10 @@ Yellow-bellied Flycatcher
 Yellow-bellied Sapsucker
 Yellow-billed Cuckoo
 Yellow-breasted Chat
-Yellow-crowned Night-Heron
+Yellow-crowned Night Heron
 Yellow-green Vireo
 Yellow-headed Blackbird
 Yellow-legged Gull
-Yellow-nosed Albatross
 Yellow-rumped Warbler
 Yellow-throated Vireo
 Yellow-throated Warbler

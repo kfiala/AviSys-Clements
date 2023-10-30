@@ -1,5 +1,5 @@
 ; https://wos.org/checklist/
-; Retrieved 25 October 2022  Dated November 2021
+; Retrieved 15 October 2023  Dated October 2022
 
 Acorn Woodpecker
 Alder Flycatcher
@@ -11,6 +11,7 @@ American Crow
 American Dipper
 American Golden-Plover
 American Goldfinch
+American Goshawk
 American Kestrel
 American Pipit
 American Redstart
@@ -53,7 +54,7 @@ Black-billed Cuckoo
 Black-billed Magpie
 Black-capped Chickadee
 Black-chinned Hummingbird
-Black-crowned Night-Heron
+Black-crowned Night Heron
 Black-footed Albatross
 Black-headed Grosbeak
 Black-headed Gull
@@ -114,7 +115,6 @@ Caspian Tern
 Cassin's Auklet
 Cassin's Finch
 Cassin's Vireo
-Cattle Egret
 Cedar Waxwing
 Chestnut-backed Chickadee
 Chestnut-collared Longspur
@@ -259,7 +259,6 @@ Least Tern
 LeConte's Sparrow
 Lesser Black-backed Gull
 Lesser Goldfinch
-Lesser Sand-Plover
 Lesser Scaup
 Lesser Yellowlegs
 Lewis's Woodpecker
@@ -301,7 +300,6 @@ Northern Bobwhite
 Northern Flicker
 Northern Fulmar
 Northern Giant-Petrel
-Northern Goshawk
 Northern Harrier
 Northern Hawk Owl
 Northern Mockingbird
@@ -322,7 +320,6 @@ Ovenbird
 Pacific Golden-Plover
 Pacific Loon
 Pacific Wren
-Pacific-slope Flycatcher
 Painted Bunting
 Painted Redstart
 Palm Warbler
@@ -414,6 +411,7 @@ Short-eared Owl
 Short-tailed Albatross
 Short-tailed Shearwater
 Siberian Accentor
+Siberian Sand-Plover
 Slaty-backed Gull
 Smew
 Smith's Longspur
@@ -471,6 +469,8 @@ Wandering Tattler
 Warbling Vireo
 Wedge-tailed Shearwater
 Western Bluebird
+Western Cattle Egret
+Western Flycatcher
 Western Grebe
 Western Gull
 Western Kingbird
@@ -517,7 +517,7 @@ Yellow-bellied Sapsucker
 Yellow-billed Cuckoo
 Yellow-billed Loon
 Yellow-breasted Chat
-Yellow-crowned Night-Heron
+Yellow-crowned Night Heron
 Yellow-headed Blackbird
 Yellow-rumped Warbler
 Yellow-throated Vireo

@@ -1,5 +1,5 @@
 ; http://abc.azfo.org/
-; Retrieved 12 Oct 2022 -- no change from last year   Dated January 2021
+; Retrieved 15 August 2023 -- Dated January 2023
 
 Abert's Towhee
 Acadian Flycatcher
@@ -12,6 +12,7 @@ American Crow
 American Dipper
 American Golden-Plover
 American Goldfinch
+American Goshawk
 American Kestrel
 American Pipit
 American Redstart
@@ -20,6 +21,7 @@ American Three-toed Woodpecker
 American Tree Sparrow
 American White Pelican
 American Wigeon
+American Woodcock
 Anhinga
 Anna's Hummingbird
 Aplomado Falcon
@@ -64,7 +66,7 @@ Black-capped Gnatcatcher
 Black-capped Vireo
 Black-chinned Hummingbird
 Black-chinned Sparrow
-Black-crowned Night-Heron
+Black-crowned Night Heron
 Black-headed Grosbeak
 Black-legged Kittiwake
 Black-necked Stilt
@@ -134,7 +136,6 @@ Cassin's Finch
 Cassin's Kingbird
 Cassin's Sparrow
 Cassin's Vireo
-Cattle Egret
 Cave Swallow
 Cedar Waxwing
 Cerulean Warbler
@@ -168,7 +169,6 @@ Common Tern
 Common Yellowthroat
 Connecticut Warbler
 Cooper's Hawk
-Cordilleran Flycatcher
 Costa's Hummingbird
 Couch's Kingbird
 Crescent-chested Warbler
@@ -187,7 +187,6 @@ Eared Grebe
 Eared Quetzal
 Eastern Bluebird
 Eastern Kingbird
-Eastern Meadowlark
 Eastern Phoebe
 Eastern Towhee
 Eastern Whip-poor-will
@@ -285,7 +284,7 @@ Laughing Gull
 Lawrence's Goldfinch
 Laysan Albatross
 Lazuli Bunting
-Leach's/Townsend's/Ainley's Storm-Petrel
+Leach's Storm-Petrel
 Least Bittern
 Least Flycatcher
 Least Grebe
@@ -297,7 +296,6 @@ LeConte's Thrasher
 Lesser Black-backed Gull
 Lesser Goldfinch
 Lesser Nighthawk
-Lesser Sand-Plover
 Lesser Scaup
 Lesser Yellowlegs
 Lewis's Woodpecker
@@ -339,7 +337,6 @@ Northern Beardless-Tyrannulet
 Northern Bobwhite
 Northern Cardinal
 Northern Flicker
-Northern Goshawk
 Northern Harrier
 Northern Jacana
 Northern Mockingbird
@@ -355,6 +352,7 @@ Northern Wheatear
 Nutting's Flycatcher
 Olive Warbler
 Olive-sided Flycatcher
+Orange-billed Nightingale-Thrush
 Orange-crowned Warbler
 Orchard Oriole
 Osprey
@@ -362,7 +360,6 @@ Ovenbird
 Pacific Golden-Plover
 Pacific Loon
 Pacific Wren
-Pacific-slope Flycatcher
 Painted Bunting
 Painted Redstart
 Palm Warbler
@@ -455,6 +452,7 @@ Short-billed Dowitcher
 Short-billed Gull
 Short-eared Owl
 Short-tailed Hawk
+Siberian Sand-Plover
 Sinaloa Wren
 Slate-throated Redstart
 Smith's Longspur
@@ -513,6 +511,8 @@ Warbling Vireo
 Wedge-rumped Storm-Petrel
 Wedge-tailed Shearwater
 Western Bluebird
+Western Cattle Egret
+Western Flycatcher
 Western Grebe
 Western Gull
 Western Kingbird
@@ -537,6 +537,7 @@ White-tailed Tropicbird
 White-throated Sparrow
 White-throated Swift
 White-throated Thrush
+White-tipped Dove
 White-winged Crossbill
 White-winged Dove
 White-winged Scoter
@@ -560,7 +561,7 @@ Yellow-bellied Sapsucker
 Yellow-billed Cuckoo
 Yellow-billed Loon
 Yellow-breasted Chat
-Yellow-crowned Night-Heron
+Yellow-crowned Night Heron
 Yellow-eyed Junco
 Yellow-footed Gull
 Yellow-green Vireo

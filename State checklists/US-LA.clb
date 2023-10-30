@@ -1,5 +1,5 @@
 ; http://losbird.org/lbrc/lbrc.htm
-; Retrieved 15 Oct 2022   Dated September 2022
+; Retrieved 21 August 2023   Dated September 2022 -- unchanged
 
 Acadian Flycatcher
 Alder Flycatcher
@@ -12,6 +12,7 @@ American Crow
 American Flamingo
 American Golden-Plover
 American Goldfinch
+American Goshawk
 American Kestrel
 American Oystercatcher
 American Pipit
@@ -27,6 +28,7 @@ Anna's Hummingbird
 Antillean Nighthawk
 Arctic Tern
 Ash-throated Flycatcher
+Atlantic Yellow-nosed Albatross
 Audubon's Shearwater
 Bachman's Sparrow
 Bachman's Warbler
@@ -56,7 +58,7 @@ Black-bellied Whistling-Duck
 Black-billed Cuckoo
 Black-capped Vireo
 Black-chinned Hummingbird
-Black-crowned Night-Heron
+Black-crowned Night Heron
 Black-headed Grosbeak
 Black-headed Gull
 Black-legged Kittiwake
@@ -116,7 +118,6 @@ Cassin's Finch
 Cassin's Kingbird
 Cassin's Sparrow
 Cassin's Vireo
-Cattle Egret
 Cave Swallow
 Cedar Waxwing
 Cerulean Warbler
@@ -142,7 +143,6 @@ Common Tern
 Common Yellowthroat
 Connecticut Warbler
 Cooper's Hawk
-Cordilleran Flycatcher
 Cory's Shearwater
 Couch's Kingbird
 Crested Caracara
@@ -254,7 +254,6 @@ LeConte's Sparrow
 Lesser Black-backed Gull
 Lesser Goldfinch
 Lesser Nighthawk
-Lesser Sand-Plover
 Lesser Scaup
 Lesser Yellowlegs
 Limpkin
@@ -296,7 +295,6 @@ Northern Bobwhite
 Northern Cardinal
 Northern Flicker
 Northern Gannet
-Northern Goshawk
 Northern Harrier
 Northern Mockingbird
 Northern Parula
@@ -312,7 +310,6 @@ Orchard Oriole
 Osprey
 Ovenbird
 Pacific Loon
-Pacific-slope Flycatcher
 Painted Bunting
 Painted Redstart
 Palm Warbler
@@ -396,6 +393,7 @@ Shiny Cowbird
 Short-billed Dowitcher
 Short-billed Gull
 Short-eared Owl
+Siberian Sand-Plover
 Smith's Longspur
 Smooth-billed Ani
 Snow Goose
@@ -441,6 +439,8 @@ Vesper Sparrow
 Virginia Rail
 Virginia's Warbler
 Warbling Vireo
+Western Cattle Egret
+Western Flycatcher
 Western Grebe
 Western Gull
 Western Kingbird
@@ -482,10 +482,9 @@ Yellow-bellied Flycatcher
 Yellow-bellied Sapsucker
 Yellow-billed Cuckoo
 Yellow-breasted Chat
-Yellow-crowned Night-Heron
+Yellow-crowned Night Heron
 Yellow-green Vireo
 Yellow-headed Blackbird
-Yellow-nosed Albatross
 Yellow-rumped Warbler
 Yellow-throated Vireo
 Yellow-throated Warbler
