@@ -258,7 +258,7 @@ for record in open(MASTER_EDT,'r').readlines():
 	species = field[2]
 	regionCode = field[3]
 	number=field[4].strip()
-	if not any(c.islower() for c in genus):
+	if number == 0:
 		isFamily = True
 	else:
 		isFamily = False
