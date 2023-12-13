@@ -27,6 +27,18 @@ BrandingText "AviSys taxonomy update"
 Var DATA_FOLDER
 !define MUI_DIRECTORYPAGE_VARIABLE   $DATA_FOLDER
 
+!define MUI_PAGE_CUSTOMFUNCTION_PRE read
+
+Function read
+IfFileExists $INSTDIR\AVISYS.INI 0 missing
+ReadINIStr $R0 $INSTDIR\AVISYS.INI "Options" "DirPref"
+StrCpy $DATA_FOLDER "$INSTDIR\$R0"
+Goto readok
+missing:
+MessageBox MB_OK "It looks like you selected a folder that is not an AviSys main folder."
+readok:
+FunctionEnd
+
 !insertmacro MUI_PAGE_DIRECTORY
 
 # Perform the installation
@@ -34,9 +46,7 @@ Var DATA_FOLDER
 Page instfiles
 
 Section ""
-
 SetOutPath $INSTDIR
-
 File SSDATA.AVI
 File BANDCODE.AVI
 File BANDSEL.AVI
@@ -47,14 +57,11 @@ File Walias.avi
 File Wfam.avi
 File Wfam2.avi
 
-; Data folder
 SetOutPath $DATA_FOLDER
-
 File Data\MASTER.UPD
 File Data\NEWNAMES11.AVI
 File Data\WLDCODE.AVI
 File Data\WORLDSEL.AVI
-
 SectionEnd ; end the section
 
 # !define MUI_FINISHPAGE_NOAUTOCLOSE  # Do not automatically jump to the finish page, to allow the user to check the install log
@@ -69,8 +76,3 @@ SectionEnd ; end the section
 !insertmacro MUI_PAGE_FINISH
 
 !insertmacro MUI_LANGUAGE "English"
-
-Function .onInit
-   ReadINIStr $R0 $INSTDIR\AVISYS.INI "Options" "DirPref"
-   StrCpy $DATA_FOLDER "$INSTDIR\$R0"
-FunctionEnd
