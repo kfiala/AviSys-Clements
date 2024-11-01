@@ -1,11 +1,13 @@
 ; https://californiabirds.org/checklist.asp
-; Retrieved 15 August 2023     Dated 6 July 2023 683 species + 6 "of uncertain natural occurrence"
+; Retrieved 21 September 2024     Dated 14 August 2024
 
 Abert's Towhee
 Acorn Woodpecker
+Ainley's Storm-Petrel
 Alder Flycatcher
 Allen's Hummingbird
 American Avocet
+American Barn Owl
 American Bittern
 American Black Duck
 American Coot
@@ -14,6 +16,7 @@ American Dipper
 American Golden-Plover
 American Goldfinch
 American Goshawk
+American Herring Gull
 American Kestrel
 American Oystercatcher
 American Pipit
@@ -31,6 +34,7 @@ Arctic Tern
 Arctic/Kamchatka Leaf Warbler
 Ash-throated Flycatcher
 Ashy Storm-Petrel
+Siberian Stonechat
 Baikal Teal
 Baird's Sandpiper
 Baird's Sparrow
@@ -40,7 +44,6 @@ Band-rumped Storm-Petrel
 Band-tailed Pigeon
 Bank Swallow
 Bar-tailed Godwit
-Barn Owl
 Barn Swallow
 Barred Owl
 Barrow's Goldeneye
@@ -63,7 +66,6 @@ Black Tern
 Black Turnstone
 Black Vulture
 Black-and-white Warbler
-Black-backed Oriole
 Black-backed Woodpecker
 Black-bellied Plover
 Black-bellied Whistling-Duck
@@ -89,7 +91,7 @@ Blackburnian Warbler
 Blackpoll Warbler
 Blue Grosbeak
 Blue Jay
-Blue Mockingbird
+Blue Rock-Thrush
 Blue-footed Booby
 Blue-gray Gnatcatcher
 Blue-headed Vireo
@@ -111,7 +113,6 @@ Broad-billed Hummingbird
 Broad-tailed Hummingbird
 Broad-winged Hawk
 Bronzed Cowbird
-Brown Booby
 Brown Creeper
 Brown Pelican
 Brown Shrike
@@ -166,6 +167,7 @@ Clark's Grebe
 Clark's Nutcracker
 Clay-colored Sparrow
 Cliff Swallow
+Cocos Booby
 Common Black Hawk
 Common Crane
 Common Cuckoo
@@ -182,7 +184,6 @@ Common Nighthawk
 Common Pochard
 Common Poorwill
 Common Raven
-Common Redpoll
 Common Ringed Plover
 Common Rosefinch
 Common Scoter
@@ -203,7 +204,6 @@ Crissal Thrasher
 Curlew Sandpiper
 Curve-billed Thrasher
 Dark-eyed Junco
-Demoiselle Crane
 Dickcissel
 Double-crested Cormorant
 Downy Woodpecker
@@ -259,8 +259,6 @@ Grasshopper Sparrow
 Gray Catbird
 Gray Flycatcher
 Gray Hawk
-Gray Silky-flycatcher
-Gray Thrasher
 Gray Vireo
 Gray Wagtail
 Gray-cheeked Thrush
@@ -300,7 +298,6 @@ Heermann's Gull
 Hepatic Tanager
 Hermit Thrush
 Hermit Warbler
-Herring Gull
 Hooded Merganser
 Hooded Oriole
 Hooded Warbler
@@ -309,7 +306,6 @@ Horned Lark
 Horned Puffin
 House Finch
 House Sparrow
-House Wren
 Hudsonian Godwit
 Hutton's Vireo
 Iceland Gull
@@ -353,7 +349,7 @@ Lesser Scaup
 Lesser Yellowlegs
 Lewis's Woodpecker
 Light-mantled Albatross
-Lilac-crowned Parrot
+Lilac-crowned Amazon
 Lincoln's Sparrow
 Little Blue Heron
 Little Bunting
@@ -405,6 +401,7 @@ Northern Flicker
 Northern Fulmar
 Northern Gannet
 Northern Harrier
+Northern House Wren
 Northern Mockingbird
 Northern Parula
 Northern Pintail
@@ -467,7 +464,7 @@ Red-billed Tropicbird
 Red-breasted Merganser
 Red-breasted Nuthatch
 Red-breasted Sapsucker
-Red-crowned Parrot
+Red-crowned Amazon
 Red-eyed Vireo
 Red-faced Warbler
 Red-flanked Bluetail
@@ -488,6 +485,7 @@ Red-whiskered Bulbul
 Red-winged Blackbird
 Reddish Egret
 Redhead
+Redpoll
 Rhinoceros Auklet
 Ridgway's Rail
 Ring-billed Gull
@@ -541,8 +539,8 @@ Short-billed Gull
 Short-eared Owl
 Short-tailed Albatross
 Short-tailed Shearwater
+Siberian Rubythroat
 Siberian Sand-Plover
-Siberian Stonechat
 Slaty-backed Gull
 Small-billed Elaenia
 Smew
@@ -613,12 +611,13 @@ Violet-crowned Hummingbird
 Violet-green Swallow
 Virginia Rail
 Virginia's Warbler
+Wandering Albatross
 Wandering Tattler
 Warbling Vireo
 Wedge-rumped Storm-Petrel
 Wedge-tailed Shearwater
 Western Bluebird
-Western Cattle Egret
+Western Cattle-Egret
 Western Flycatcher
 Western Grebe
 Western Gull
@@ -670,7 +669,6 @@ Woodhouse's Scrub-Jay
 Worm-eating Warbler
 Wrentit
 Xantus's Hummingbird
-Yellow Grosbeak
 Yellow Rail
 Yellow Warbler
 Yellow-bellied Flycatcher

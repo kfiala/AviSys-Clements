@@ -1,11 +1,12 @@
-; http://abc.azfo.org/
-; Retrieved 15 August 2023 -- Dated January 2023
+; http://abc.azfo.net/
+; Retrieved 21 September 2024 -- Dated March 2023
 
 Abert's Towhee
 Acadian Flycatcher
 Acorn Woodpecker
 Allen's Hummingbird
 American Avocet
+American Barn Owl
 American Bittern
 American Coot
 American Crow
@@ -13,6 +14,7 @@ American Dipper
 American Golden-Plover
 American Goldfinch
 American Goshawk
+American Herring Gull
 American Kestrel
 American Pipit
 American Redstart
@@ -36,7 +38,6 @@ Bald Eagle
 Baltimore Oriole
 Band-tailed Pigeon
 Bank Swallow
-Barn Owl
 Barn Swallow
 Barrow's Goldeneye
 Bay-breasted Warbler
@@ -164,7 +165,6 @@ Common Merganser
 Common Nighthawk
 Common Poorwill
 Common Raven
-Common Redpoll
 Common Tern
 Common Yellowthroat
 Connecticut Warbler
@@ -257,7 +257,6 @@ Heermann's Gull
 Hepatic Tanager
 Hermit Thrush
 Hermit Warbler
-Herring Gull
 Hooded Merganser
 Hooded Oriole
 Hooded Warbler
@@ -265,7 +264,6 @@ Horned Grebe
 Horned Lark
 House Finch
 House Sparrow
-House Wren
 Hudsonian Godwit
 Hutton's Vireo
 Iceland Gull
@@ -338,6 +336,7 @@ Northern Bobwhite
 Northern Cardinal
 Northern Flicker
 Northern Harrier
+Northern House Wren
 Northern Jacana
 Northern Mockingbird
 Northern Parula
@@ -405,6 +404,7 @@ Red-throated Pipit
 Red-winged Blackbird
 Reddish Egret
 Redhead
+Redpoll
 Ridgway's Rail
 Ring-billed Gull
 Ring-necked Duck
@@ -511,7 +511,7 @@ Warbling Vireo
 Wedge-rumped Storm-Petrel
 Wedge-tailed Shearwater
 Western Bluebird
-Western Cattle Egret
+Western Cattle-Egret
 Western Flycatcher
 Western Grebe
 Western Gull

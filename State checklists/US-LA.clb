@@ -1,10 +1,11 @@
 ; http://losbird.org/lbrc/lbrc.htm
-; Retrieved 21 August 2023   Dated September 2022 -- unchanged
+; Retrieved 9 October 2024   Dated 2023
 
 Acadian Flycatcher
 Alder Flycatcher
 Allen's Hummingbird
 American Avocet
+American Barn Owl
 American Bittern
 American Black Duck
 American Coot
@@ -13,6 +14,7 @@ American Flamingo
 American Golden-Plover
 American Goldfinch
 American Goshawk
+American Herring Gull
 American Kestrel
 American Oystercatcher
 American Pipit
@@ -29,7 +31,6 @@ Antillean Nighthawk
 Arctic Tern
 Ash-throated Flycatcher
 Atlantic Yellow-nosed Albatross
-Audubon's Shearwater
 Bachman's Sparrow
 Bachman's Warbler
 Baikal Teal
@@ -40,7 +41,6 @@ Baltimore Oriole
 Band-rumped Storm-Petrel
 Band-tailed Pigeon
 Bank Swallow
-Barn Owl
 Barn Swallow
 Barred Owl
 Bay-breasted Warbler
@@ -218,7 +218,6 @@ Henslow's Sparrow
 Hepatic Tanager
 Hermit Thrush
 Hermit Warbler
-Herring Gull
 Hooded Merganser
 Hooded Oriole
 Hooded Warbler
@@ -226,7 +225,6 @@ Horned Grebe
 Horned Lark
 House Finch
 House Sparrow
-House Wren
 Hudsonian Godwit
 Iceland Gull
 Inca Dove
@@ -296,6 +294,7 @@ Northern Cardinal
 Northern Flicker
 Northern Gannet
 Northern Harrier
+Northern House Wren
 Northern Mockingbird
 Northern Parula
 Northern Pintail
@@ -346,6 +345,7 @@ Red-eyed Vireo
 Red-faced Warbler
 Red-footed Booby
 Red-headed Woodpecker
+Red-legged Honeycreeper
 Red-naped Sapsucker
 Red-necked Grebe
 Red-necked Phalarope
@@ -378,6 +378,7 @@ Sage Thrasher
 Sanderling
 Sandhill Crane
 Sandwich Tern
+Sargasso Shearwater
 Savannah Sparrow
 Say's Phoebe
 Scaly-breasted Munia
@@ -394,6 +395,7 @@ Short-billed Dowitcher
 Short-billed Gull
 Short-eared Owl
 Siberian Sand-Plover
+Slaty-backed Gull
 Smith's Longspur
 Smooth-billed Ani
 Snow Goose
@@ -439,7 +441,7 @@ Vesper Sparrow
 Virginia Rail
 Virginia's Warbler
 Warbling Vireo
-Western Cattle Egret
+Western Cattle-Egret
 Western Flycatcher
 Western Grebe
 Western Gull

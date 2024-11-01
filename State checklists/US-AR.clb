@@ -1,10 +1,11 @@
 ; https://www.arbirds.org
-; Retrieved 15 August 2023    Undated
+; Retrieved 21 September 2024    Undated
 
 Acadian Flycatcher
 Alder Flycatcher
 Allen's Hummingbird
 American Avocet
+American Barn Owl
 American Bittern
 American Black Duck
 American Coot
@@ -12,6 +13,7 @@ American Crow
 American Golden-Plover
 American Goldfinch
 American Goshawk
+American Herring Gull
 American Kestrel
 American Pipit
 American Redstart
@@ -29,7 +31,6 @@ Baird's Sandpiper
 Bald Eagle
 Baltimore Oriole
 Bank Swallow
-Barn Owl
 Barn Swallow
 Barnacle Goose
 Barred Owl
@@ -118,7 +119,6 @@ Common Ground Dove
 Common Loon
 Common Merganser
 Common Nighthawk
-Common Redpoll
 Common Tern
 Common Yellowthroat
 Connecticut Warbler
@@ -188,14 +188,12 @@ Hairy Woodpecker
 Harris's Sparrow
 Henslow's Sparrow
 Hermit Thrush
-Herring Gull
 Hooded Merganser
 Hooded Warbler
 Horned Grebe
 Horned Lark
 House Finch
 House Sparrow
-House Wren
 Hudsonian Godwit
 Iceland Gull
 Inca Dove
@@ -254,6 +252,7 @@ Northern Cardinal
 Northern Flicker
 Northern Gannet
 Northern Harrier
+Northern House Wren
 Northern Mockingbird
 Northern Parula
 Northern Pintail
@@ -307,6 +306,7 @@ Red-tailed Hawk
 Red-throated Loon
 Red-winged Blackbird
 Redhead
+Redpoll
 Ring-billed Gull
 Ring-necked Duck
 Rivoli's Hummingbird
@@ -383,7 +383,7 @@ Vermilion Flycatcher
 Vesper Sparrow
 Virginia Rail
 Warbling Vireo
-Western Cattle Egret
+Western Cattle-Egret
 Western Grebe
 Western Kingbird
 Western Meadowlark

@@ -1,10 +1,11 @@
 ; https://nybirds.org/Publications/ChecklistNYS.htm
-; Retrieved 15 October 2023   Dated 15 July 2023
+; Retrieved 20 October 2024   Dated 15 July 2023
 
 'Yellow' Wagtail
 Acadian Flycatcher
 Alder Flycatcher
 American Avocet
+American Barn Owl
 American Bittern
 American Black Duck
 American Coot
@@ -12,6 +13,7 @@ American Crow
 American Golden-Plover
 American Goldfinch
 American Goshawk
+American Herring Gull
 American Kestrel
 American Oystercatcher
 American Pipit
@@ -29,7 +31,6 @@ Arctic Tern
 Ash-throated Flycatcher
 Atlantic Puffin
 Atlantic Yellow-nosed Albatross
-Audubon's Shearwater
 Azure Gallinule
 Bachman's Sparrow
 Baird's Sandpiper
@@ -40,7 +41,6 @@ Band-rumped Storm-Petrel
 Band-tailed Pigeon
 Bank Swallow
 Bar-tailed Godwit
-Barn Owl
 Barn Swallow
 Barnacle Goose
 Barred Owl
@@ -144,7 +144,6 @@ Common Merganser
 Common Murre
 Common Nighthawk
 Common Raven
-Common Redpoll
 Common Ringed Plover
 Common Tern
 Common Yellowthroat
@@ -231,15 +230,12 @@ Harris's Sparrow
 Henslow's Sparrow
 Hermit Thrush
 Hermit Warbler
-Herring Gull
-Hoary Redpoll
 Hooded Merganser
 Hooded Warbler
 Horned Grebe
 Horned Lark
 House Finch
 House Sparrow
-House Wren
 Hudsonian Godwit
 Iceland Gull
 Inca Dove
@@ -304,6 +300,7 @@ Northern Fulmar
 Northern Gannet
 Northern Harrier
 Northern Hawk Owl
+Northern House Wren
 Northern Lapwing
 Northern Mockingbird
 Northern Parula
@@ -362,6 +359,7 @@ Red-throated Loon
 Red-winged Blackbird
 Reddish Egret
 Redhead
+Redpoll
 Redwing
 Ring-billed Gull
 Ring-necked Duck
@@ -389,10 +387,12 @@ Saltmarsh Sparrow
 Sanderling
 Sandhill Crane
 Sandwich Tern
+Sargasso Shearwater
 Savannah Sparrow
 Say's Phoebe
 Scarlet Tanager
 Scissor-tailed Flycatcher
+Scopoli's Shearwater
 Scott's Oriole
 Seaside Sparrow
 Sedge Wren
@@ -452,7 +452,7 @@ Violet-green Swallow
 Virginia Rail
 Virginia's Warbler
 Warbling Vireo
-Western Cattle Egret
+Western Cattle-Egret
 Western Flycatcher
 Western Grebe
 Western Gull

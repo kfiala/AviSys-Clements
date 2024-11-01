@@ -1,5 +1,5 @@
 ; https://www.texasbirdrecordscommittee.org/
-; Retrieved 15 October 2023   Dated 7 July 2023 664 species
+; Retrieved 20 October 2024   Dated 18 July 2024 671 species
 
 Acadian Flycatcher
 Acorn Woodpecker
@@ -8,6 +8,7 @@ Allen's Hummingbird
 Altamira Oriole
 Amazon Kingfisher
 American Avocet
+American Barn Owl
 American Bittern
 American Black Duck
 American Coot
@@ -17,6 +18,7 @@ American Flamingo
 American Golden-Plover
 American Goldfinch
 American Goshawk
+American Herring Gull
 American Kestrel
 American Oystercatcher
 American Pipit
@@ -34,7 +36,6 @@ Arctic Tern
 Ash-throated Flycatcher
 Atlantic Yellow-nosed Albatross
 Audubon's Oriole
-Audubon's Shearwater
 Aztec Thrush
 Bachman's Sparrow
 Baird's Sandpiper
@@ -46,7 +47,6 @@ Band-tailed Pigeon
 Bank Swallow
 Bar-tailed Godwit
 Bare-throated Tiger-Heron
-Barn Owl
 Barn Swallow
 Barred Antshrike
 Barred Owl
@@ -186,7 +186,6 @@ Common Nighthawk
 Common Pauraque
 Common Poorwill
 Common Raven
-Common Redpoll
 Common Tern
 Common Yellowthroat
 Connecticut Warbler
@@ -195,6 +194,7 @@ Cory's Shearwater
 Costa's Hummingbird
 Couch's Kingbird
 Crane Hawk
+Crescent-chested Warbler
 Crested Caracara
 Crimson-collared Grosbeak
 Crissal Thrasher
@@ -262,6 +262,7 @@ Gray Silky-flycatcher
 Gray Vireo
 Gray-breasted Martin
 Gray-cheeked Thrush
+Gray-collared Becard
 Gray-crowned Rosy-Finch
 Gray-crowned Yellowthroat
 Great Black Hawk
@@ -300,7 +301,6 @@ Henslow's Sparrow
 Hepatic Tanager
 Hermit Thrush
 Hermit Warbler
-Herring Gull
 Hooded Merganser
 Hooded Oriole
 Hooded Warbler
@@ -309,7 +309,6 @@ Horned Grebe
 Horned Lark
 House Finch
 House Sparrow
-House Wren
 Hudsonian Godwit
 Hutton's Vireo
 Iceland Gull
@@ -395,6 +394,7 @@ Northern Cardinal
 Northern Flicker
 Northern Gannet
 Northern Harrier
+Northern House Wren
 Northern Jacana
 Northern Mockingbird
 Northern Parula
@@ -417,6 +417,7 @@ Osprey
 Ovenbird
 Pacific Golden-Plover
 Pacific Loon
+Pacific Wren
 Paint-billed Crake
 Painted Bunting
 Painted Redstart
@@ -457,7 +458,7 @@ Red-breasted Merganser
 Red-breasted Nuthatch
 Red-breasted Sapsucker
 Red-cockaded Woodpecker
-Red-crowned Parrot
+Red-crowned Amazon
 Red-eyed Vireo
 Red-faced Warbler
 Red-footed Booby
@@ -474,6 +475,7 @@ Red-vented Bulbul
 Red-winged Blackbird
 Reddish Egret
 Redhead
+Redpoll
 Ring-billed Gull
 Ring-necked Duck
 Ring-necked Pheasant
@@ -507,12 +509,14 @@ Sagebrush Sparrow
 Sanderling
 Sandhill Crane
 Sandwich Tern
+Sargasso Shearwater
 Savannah Sparrow
 Say's Phoebe
 Scaled Quail
 Scaly-breasted Munia
 Scarlet Tanager
 Scissor-tailed Flycatcher
+Scopoli's Shearwater
 Scott's Oriole
 Seaside Sparrow
 Sedge Wren
@@ -543,6 +547,7 @@ Sooty Shearwater
 Sooty Tern
 Sora
 South Polar Skua
+Southern Lapwing
 Spotted Owl
 Spotted Rail
 Spotted Redshank
@@ -576,6 +581,7 @@ Trindade Petrel
 Tropical Kingbird
 Tropical Parula
 Trumpeter Swan
+Tufted Duck
 Tufted Flycatcher
 Tufted Titmouse
 Tundra Swan
@@ -596,7 +602,7 @@ Wandering Tattler
 Warbling Vireo
 Wedge-tailed Shearwater
 Western Bluebird
-Western Cattle Egret
+Western Cattle-Egret
 Western Flycatcher
 Western Grebe
 Western Gull
@@ -657,6 +663,7 @@ Yellow-breasted Chat
 Yellow-crowned Night Heron
 Yellow-eyed Junco
 Yellow-faced Grassquit
+Yellow-footed Gull
 Yellow-green Vireo
 Yellow-headed Blackbird
 Yellow-legged Gull

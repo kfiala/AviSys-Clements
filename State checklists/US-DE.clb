@@ -1,10 +1,11 @@
 ; https://www.dosbirds.org/
-; Retrieved 15 August 2023     Dated February 2023 427 species stated
+; Retrieved 22 Sept 2024 Updated July 2024    Dated February 2023 427 species stated
 
 Acadian Flycatcher
 Alder Flycatcher
 Allen's Hummingbird
 American Avocet
+American Barn Owl
 American Bittern
 American Black Duck
 American Coot
@@ -12,6 +13,7 @@ American Crow
 American Golden-Plover
 American Goldfinch
 American Goshawk
+American Herring Gull
 American Kestrel
 American Oystercatcher
 American Pipit
@@ -26,13 +28,11 @@ Anhinga
 Arctic Tern
 Ash-throated Flycatcher
 Atlantic Puffin
-Audubon's Shearwater
 Baird's Sandpiper
 Bald Eagle
 Baltimore Oriole
 Band-rumped Storm-Petrel
 Bank Swallow
-Barn Owl
 Barn Swallow
 Barnacle Goose
 Barred Owl
@@ -121,7 +121,6 @@ Common Merganser
 Common Murre
 Common Nighthawk
 Common Raven
-Common Redpoll
 Common Tern
 Common Yellowthroat
 Connecticut Warbler
@@ -193,14 +192,12 @@ Harlequin Duck
 Harris's Sparrow
 Henslow's Sparrow
 Hermit Thrush
-Herring Gull
 Hooded Merganser
 Hooded Warbler
 Horned Grebe
 Horned Lark
 House Finch
 House Sparrow
-House Wren
 Hudsonian Godwit
 Iceland Gull
 Indigo Bunting
@@ -240,6 +237,7 @@ Mallard
 Manx Shearwater
 Marbled Godwit
 Marsh Wren
+Masked Booby
 Merlin
 Mississippi Kite
 Monk Parakeet
@@ -255,6 +253,7 @@ Northern Flicker
 Northern Fulmar
 Northern Gannet
 Northern Harrier
+Northern House Wren
 Northern Lapwing
 Northern Mockingbird
 Northern Parula
@@ -310,6 +309,7 @@ Red-throated Loon
 Red-winged Blackbird
 Reddish Egret
 Redhead
+Redpoll
 Ring-billed Gull
 Ring-necked Duck
 Ring-necked Pheasant
@@ -334,6 +334,7 @@ Saltmarsh Sparrow
 Sanderling
 Sandhill Crane
 Sandwich Tern
+Sargasso Shearwater
 Savannah Sparrow
 Say's Phoebe
 Scarlet Tanager
@@ -383,7 +384,7 @@ Vermilion Flycatcher
 Vesper Sparrow
 Virginia Rail
 Warbling Vireo
-Western Cattle Egret
+Western Cattle-Egret
 Western Flycatcher
 Western Grebe
 Western Kingbird

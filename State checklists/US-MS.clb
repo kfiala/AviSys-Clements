@@ -1,10 +1,11 @@
 ; https://missbird.org/checklists/
-; Retrieved 21 August 2023  Dated June 2022 -- unchanged
+; Retrieved 19 October 2024  Dated June 2022 -- unchanged
 
 Acadian Flycatcher
 Alder Flycatcher
 Allen's Hummingbird
 American Avocet
+American Barn Owl
 American Bittern
 American Black Duck
 American Coot
@@ -12,6 +13,7 @@ American Crow
 American Golden-Plover
 American Goldfinch
 American Goshawk
+American Herring Gull
 American Kestrel
 American Oystercatcher
 American Pipit
@@ -25,7 +27,6 @@ Anhinga
 Anna's Hummingbird
 Arctic Tern
 Ash-throated Flycatcher
-Audubon's Shearwater
 Bachman's Sparrow
 Bachman's Warbler
 Baird's Sandpiper
@@ -34,7 +35,6 @@ Baltimore Oriole
 Band-rumped Storm-Petrel
 Band-tailed Pigeon
 Bank Swallow
-Barn Owl
 Barn Swallow
 Barred Owl
 Bay-breasted Warbler
@@ -188,7 +188,6 @@ Harris's Hawk
 Harris's Sparrow
 Henslow's Sparrow
 Hermit Thrush
-Herring Gull
 Hooded Merganser
 Hooded Oriole
 Hooded Warbler
@@ -196,7 +195,6 @@ Horned Grebe
 Horned Lark
 House Finch
 House Sparrow
-House Wren
 Hudsonian Godwit
 Iceland Gull
 Inca Dove
@@ -255,6 +253,7 @@ Northern Cardinal
 Northern Flicker
 Northern Gannet
 Northern Harrier
+Northern House Wren
 Northern Mockingbird
 Northern Parula
 Northern Pintail
@@ -332,6 +331,7 @@ Saltmarsh Sparrow
 Sanderling
 Sandhill Crane
 Sandwich Tern
+Sargasso Shearwater
 Savannah Sparrow
 Say's Phoebe
 Scarlet Tanager
@@ -386,7 +386,7 @@ Vermilion Flycatcher
 Vesper Sparrow
 Virginia Rail
 Warbling Vireo
-Western Cattle Egret
+Western Cattle-Egret
 Western Grebe
 Western Kingbird
 Western Meadowlark

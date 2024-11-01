@@ -1,10 +1,11 @@
 ; https://www.carolinabirdclub.org/brc/
-; Retrieved 15 October 2023   Dated 2023
+; Retrieved 20 October 2024   Dated 2024
 
 Acadian Flycatcher
 Alder Flycatcher
 Allen's Hummingbird
 American Avocet
+American Barn Owl
 American Bittern
 American Black Duck
 American Coot
@@ -13,6 +14,7 @@ American Flamingo
 American Golden-Plover
 American Goldfinch
 American Goshawk
+American Herring Gull
 American Kestrel
 American Oystercatcher
 American Pipit
@@ -26,7 +28,6 @@ Anhinga
 Anna's Hummingbird
 Arctic Tern
 Ash-throated Flycatcher
-Audubon's Shearwater
 Bachman's Sparrow
 Bachman's Warbler
 Baird's Sandpiper
@@ -36,7 +37,6 @@ Band-rumped Storm-Petrel
 Band-tailed Pigeon
 Bank Swallow
 Bar-tailed Godwit
-Barn Owl
 Barn Swallow
 Barred Owl
 Bay-breasted Warbler
@@ -107,6 +107,7 @@ Carolina Chickadee
 Carolina Parakeet
 Carolina Wren
 Caspian Tern
+Cassin's Kingbird
 Cave Swallow
 Cedar Waxwing
 Cerulean Warbler
@@ -128,7 +129,6 @@ Common Merganser
 Common Murre
 Common Nighthawk
 Common Raven
-Common Redpoll
 Common Tern
 Common Yellowthroat
 Connecticut Warbler
@@ -197,14 +197,13 @@ Harris's Sparrow
 Heermann's Gull
 Henslow's Sparrow
 Hermit Thrush
-Herring Gull
+Hermit Warbler
 Hooded Merganser
 Hooded Warbler
 Horned Grebe
 Horned Lark
 House Finch
 House Sparrow
-House Wren
 Hudsonian Godwit
 Iceland Gull
 Indigo Bunting
@@ -226,6 +225,7 @@ Least Sandpiper
 Least Tern
 LeConte's Sparrow
 Lesser Black-backed Gull
+Lesser Nighthawk
 Lesser Scaup
 Lesser Yellowlegs
 Limpkin
@@ -264,6 +264,7 @@ Northern Flicker
 Northern Fulmar
 Northern Gannet
 Northern Harrier
+Northern House Wren
 Northern Lapwing
 Northern Mockingbird
 Northern Parula
@@ -319,6 +320,7 @@ Red-throated Loon
 Red-winged Blackbird
 Reddish Egret
 Redhead
+Redpoll
 Ring-billed Gull
 Ring-necked Duck
 Rock Pigeon
@@ -342,10 +344,12 @@ Saltmarsh Sparrow
 Sanderling
 Sandhill Crane
 Sandwich Tern
+Sargasso Shearwater
 Savannah Sparrow
 Say's Phoebe
 Scarlet Tanager
 Scissor-tailed Flycatcher
+Scopoli's Shearwater
 Scott's Oriole
 Seaside Sparrow
 Sedge Wren
@@ -403,7 +407,7 @@ Vermilion Flycatcher
 Vesper Sparrow
 Virginia Rail
 Warbling Vireo
-Western Cattle Egret
+Western Cattle-Egret
 Western Grebe
 Western Kingbird
 Western Meadowlark
