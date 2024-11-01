@@ -71,7 +71,7 @@ while True:
 
 counter = 0
 number = 1
-increment = 3
+increment = 2
 for record in output:
 	if any(c.islower() for c in record):
 		number += increment

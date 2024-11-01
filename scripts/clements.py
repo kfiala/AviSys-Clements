@@ -30,9 +30,6 @@ LOSTNAMES =			open('lostnames.txt','w')
 LONGNAMES =			open('longnames.txt','w')
 CHANGES = 			open('changes.csv','w', newline='')
 
-csvFields = ['sort', 'species_code', 'taxon_concept_id', 'Clements change', 'text for website', 'category', 'English name', 'scientific name', 'authority', 'name and authority', 'range', 'order', 'family', 'extinct']
-
-
 from clementsFunctions import setExtinctKeep
 
 exKeep = setExtinctKeep()
@@ -58,11 +55,14 @@ except:
 subspeciesOutput = []
 counter = 1
 
+# Needed fields for writing
+csvFields = ['sort', 'species_code', 'Clements change', 'text for website', 'category', 'English name', 'scientific name', 'range', 'order', 'family', 'extinct']
+
 import csv
 CSVwriter = csv.DictWriter(CHANGES,fieldnames=csvFields)
 
 with open(CLEMENTS) as csvfile:
-	csvreader = csv.DictReader(csvfile,fieldnames=csvFields)
+	csvreader = csv.DictReader(csvfile)
 	headerSeen = False
 	for row in csvreader:
 		if not headerSeen:
@@ -152,7 +152,7 @@ with open(CLEMENTS) as csvfile:
 			else:
 				ABA = 'W' # This species is not in the old MASTER.EDT. Mark it non-ABA and record it as a new name.
 				NEWNAMES.write('S '+common+'\n')
-			counter += 3	# Set the AviSys sequence number
+			counter += 2	# Set the AviSys sequence number
 			outputLine = '  '+common+','+genus+','+species+','+ABA+','+str(counter)+'\n'
 #			print(outputLine)
 			MASTEREDT.write(outputLine) # Format the MASTER.EDT record and insert it

@@ -9,14 +9,18 @@
    This will create **MASTER.EDT** in the work folder; rename it as **MASTER.OLD.EDT**.
    It also creates **Hawaii-only.txt** which may be of interest but is not otherwise used.
 
-1. Download Clements checklist in CSV format to the work folder. Note: I have sometimes found the provided CSV format checklist
+1. Download the Clements checklist in CSV format to the work folder. Note: I have sometimes found the provided CSV format checklist
    to have improper encoding. For better results, I download the XLSX file and create my own CSV format file.
-   Make sure that the file name matches the pattern "`Clements-Checklist*.csv`" and is the only match.
+   Make sure that the file name matches the pattern "`Clements-Checklist*.csv`" and is the only match--rename the file if necessary.
 
 1. Download the current ABA checklist in CSV format to the work folder.
    Make sure the filename matches the pattern '`ABA_Checklist-*.csv`' and is the only match.
 
 1. Check for any changes in the format of either CSV file and update `clements.py` and/or `ABA.py` accordingly.
+   In the Clements .csv file, rename the column headings to match the
+    generic values without date references as used in clements.py--for example,
+    change "`sort v2024`" to just "`sort`",
+   "`Clements v2024b change`" to "`Clements change`", etc.
 
 1. Run `python scripts\clements.py`. Six files will be created in the work directory:
 
@@ -30,7 +34,15 @@
     | **subspecies.txt** | input for creating SSDATA.AVI
 
 1. If the results show that there are any new names that differ between AOS (ABA) and Clements (eBird),
-update **AOS diffs.csv** and run `clements.py` again.
+update **AOS diffs.csv** and run `clements.py` again.<br><br>
+Note: ABA has always followed AOS and not Clements taxonomy.
+As of 2023, ABA began including both AOS and Clements names in their checklist
+(and as of 2024 they show the Clements name as primary),
+so now you need to edit the ABA checklist and change all names to show only the Clements name.
+Thus there is no longer exactly the same need for the **AOS diffs.csv** file.
+However you do need to use it for names that have changed in the current update
+and haven't been changed by ABA,
+unless you go ahead and make those changes in the ABA list.
 
 1. Edit **MASTER.EDT** to shorten names listed in longnames.txt, if any. Examples:
 

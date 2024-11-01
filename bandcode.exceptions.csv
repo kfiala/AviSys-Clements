@@ -5,9 +5,6 @@ amgo,american goshawk,agos
 bago,barnacle goose,brng,bgoo
 bago,barrow's goldeneye,bago
 
-baow,barred owl,bdow,bado,barr
-baow,barn owl,bnow,bano
-
 basp,bachman's sparrow,bacs
 basp,baird's sparrow,bais
 
@@ -71,7 +68,6 @@ copo,common pochard,cpoc,comp
 
 cgdo,common ground dove,cogd,cgdo
 
-core,common redpoll,core
 core,common redshank,creh
 core,common redstart,cret
 
@@ -106,9 +102,6 @@ grsp,greater sand-plover,gsap
 grwa,grace's warbler,grwa
 grwa,gray wagtail,graw
 
-hegu,herring gull,herg
-hegu,heermann's gull,heeg
-
 labu,lark bunting,larb
 labu,lazuli bunting,lazb
 
@@ -116,10 +109,10 @@ lesp,leconte's sparrow,lcsp
 lesp,leach's storm-petrel,lhsp,lesp
 lesp,least storm-petrel,ltsp,lstp
 
-leth,leconte's thrasher,lcth
-
 mawa,macgillivray's warbler,mgwa
 mawa,magnolia warbler,mawa
+
+mgwa,middendorff's grasshopper warbler,migw,mgrw
 
 moqu,montezuma quail,monq
 moqu,mountain quail,mouq
@@ -144,8 +137,6 @@ rnph,ring-necked pheasant,rnep
 
 rote,royal tern,royt
 rote,roseate tern,rost
-
-rgdo,ruddy ground dove,rgdo,rugd
 
 sasp,savannah sparrow,savs
 sasp,sagebrush sparrow,sbsp,sabs
