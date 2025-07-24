@@ -74,8 +74,8 @@ number = 1
 increment = 2
 for record in output:
 	if any(c.islower() for c in record):
-		number += increment
 		newRecord = '  ' + record  + ',' + region[counter] + ',' + str(number) + "\n"
+		number += increment
 	else:
 		newRecord = record + ',' + region[counter] + ",0\n"
 	fh.write(newRecord)
