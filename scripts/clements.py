@@ -49,8 +49,8 @@ except FileNotFoundError:
 	print('Error:',OLDEDT,'does not exist. Cannot continue.')
 	raise SystemExit
 except:
-    print("Unexpected error while opening:",OLDEDT,sys.exc_info()[0])
-    raise
+	print("Unexpected error while opening:",OLDEDT,sys.exc_info()[0])
+	raise SystemExit
 
 subspeciesOutput = []
 counter = 1

@@ -56,6 +56,7 @@ File Famfile.avi
 File Walias.avi
 File Wfam.avi
 File Wfam2.avi
+File RANGESUB.DAT
 
 SetOutPath $DATA_FOLDER
 File Data\MASTER.UPD

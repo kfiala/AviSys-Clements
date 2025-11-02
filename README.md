@@ -33,16 +33,10 @@
     | **newnames.txt**   | names in the new taxonomy that were not in the old
     | **subspecies.txt** | input for creating SSDATA.AVI
 
-1. If the results show that there are any new names that differ between AOS (ABA) and Clements (eBird),
-update **AOS diffs.csv** and run `clements.py` again.<br><br>
-Note: ABA has always followed AOS and not Clements taxonomy.
-As of 2023, ABA began including both AOS and Clements names in their checklist
-(and as of 2024 they show the Clements name as primary),
-so now you need to edit the ABA checklist and change all names to show only the Clements name.
-Thus there is no longer exactly the same need for the **AOS diffs.csv** file.
-However you do need to use it for names that have changed in the current update
-and haven't been changed by ABA,
-unless you go ahead and make those changes in the ABA list.
+1. If the results show that there are any new names that differ between ABA and Clements,
+update the local copy of the ABA checklist and run `clements.py` again.<br><br>
+Note: I formerly used a file **AOS diffs.csv** to coordinate differences between ABA and Clements taxonomy.
+However, now I just edit my copy of the ABA checklist as necessary to substitute names from Clements.
 
 1. Edit **MASTER.EDT** to shorten names listed in longnames.txt, if any. Examples:
 
@@ -119,6 +113,7 @@ unless you go ahead and make those changes in the ABA list.
    `BANDCODE.AVI`
    `BANDSEL.AVI`
    `Famfile.avi`
+   `RANGESUB.DAT`
    `SSDATA.AVI`
    `Walias.avi`
    `Wfam.avi`

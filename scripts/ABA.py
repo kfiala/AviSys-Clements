@@ -50,11 +50,19 @@ def readABAcsv():
 def readAOSdiffs(path):		# List the differences between Clements and ABA nomenclature
 	ClementsName = {}
 	ClementsOnly = []
-	with open(path) as csvfile:
-		csvreader = csv.DictReader(csvfile)
-		for row in csvreader:
-			if row['ABA']:
-				ClementsName[row['ABA']] = row['AviSys']	# Clements name is different from ABA name
-			else:
-				ClementsOnly.append(row['AviSys'])	# Species is recognized by Clements but not by ABA
+	try:	
+		f = open(path)
+	except FileNotFoundError:
+		print('\nNote: Did not find AOS diffs.csv, skipping.\n')
+	except:
+		print("Unexpected error:", sys.exc_info()[0])
+		raise SystemExit
+	else:
+		with f as csvfile:
+			csvreader = csv.DictReader(csvfile)
+			for row in csvreader:
+				if row['ABA']:
+					ClementsName[row['ABA']] = row['AviSys']	# Clements name is different from ABA name
+				else:
+					ClementsOnly.append(row['AviSys'])	# Species is recognized by Clements but not by ABA
 	return (ClementsName,ClementsOnly)

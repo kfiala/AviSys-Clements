@@ -1,170 +1,167 @@
 base code,species,alt1,alt2,alt3
-amgo,american goldfinch,agol
-amgo,american goshawk,agos
-
-bago,barnacle goose,brng,bgoo
-bago,barrow's goldeneye,bago
-
-basp,bachman's sparrow,bacs
-basp,baird's sparrow,bais
-
-basw,barn swallow,bars
-basw,bank swallow,bans
-basw,bahama swallow,bahs
-
-bbhu,broad-billed hummingbird,bblh,bbih
-bbhu,buff-bellied hummingbird,bufh,bbeh
-
-bbsa,buff-breasted sandpiper,bbsa
-bbsa,broad-billed sandpiper,bbis
-
-blki,black-legged kittiwake,blki
-blki,black kite,blak
-
+amgo,american goldfinch,agol,,
+amgo,american goshawk,agos,,
+,,,,
+bago,barnacle goose,brng,bgoo,
+bago,barrow's goldeneye,bago,,
+,,,,
+basp,bachman's sparrow,bacs,,
+basp,baird's sparrow,bais,,
+,,,,
+basw,barn swallow,bars,,
+basw,bank swallow,bans,,
+basw,bahama swallow,bahs,,
+,,,,
+bbhu,broad-billed hummingbird,bblh,bbih,
+bbhu,buff-bellied hummingbird,bufh,bbeh,
+,,,,
+bbsa,buff-breasted sandpiper,bbsa,,
+bbsa,broad-billed sandpiper,bbis,,
+,,,,
+blki,black-legged kittiwake,blki,,
+blki,black kite,blak,,
+,,,,
 brwa,blyth's reed warbler,brwa,brew,blrw
-
-blwa,blackburnian warbler,blbw
-blwa,blackpoll warbler,blpw
-
-brco,brandt's cormorant,brac
-brco,bronzed cowbird,broc
-
-brsp,brewer's sparrow,brsp
-brsp,band-rumped storm-petrel,banp,bstp
-
-btgo,bar-tailed godwit,barg,btgo
-btgo,black-tailed godwit,blag,btgd
-
-btgw,black-throated green warbler,btnw
-btgw,black-throated gray warbler,btyw
-
-bush,bushtit,bush
-bush,buller's shearwater,buls
-
-cago,canada goose,cago,cang
-cago,cackling goose,cacg
-
-cato,california towhee,calt
-cato,canyon towhee,cant
-
-cawr,carolina wren,carw
-cawr,cactus wren,cacw
-cawr,canyon wren,canw
-
-cewa,cedar waxwing,cedw
-cewa,cerulean warbler,cerw
-
-coch,common chaffinch,coch,ccha
-coch,common chiffchaff,cchi
-
-cocr,common crane,ccra
-cocr,corn crake,corc
-
-cogr,common grackle,cogr
-cogr,common greenshank,cgre,comg
-
-copo,common poorwill,copo
-copo,common pochard,cpoc,comp
-
-cgdo,common ground dove,cogd,cgdo
-
-core,common redshank,creh
-core,common redstart,cret
-
-cosh,cory's shearwater,cosh
-cosh,common shelduck,coms
-
-cowa,connecticut warbler,conw
-cowa,colima warbler,colw
-
-euho,eurasian hobby,ehob
-euho,eurasian hoopoe,ehoo
-
-gbma,gray-breasted martin,gbma,gybm
-gbma,green-breasted mango,grem,gnbm
-
-gcwa,golden-cheeked warbler,gcwa
-gcwa,golden-crowned warbler,golw,gcrw
-
-grhe,green heron,grhe
-grhe,gray heron,grah
-
-grki,gray kingbird,grak
-grki,great kiskadee,gkis
-grki,green kingfisher,gkin
-
-grpa,gray partridge,grap
-grpa,green parakeet,grep
-
-grsp,grasshopper sparrow,grsp
-grsp,greater sand-plover,gsap
-
-grwa,grace's warbler,grwa
-grwa,gray wagtail,graw
-
-labu,lark bunting,larb
-labu,lazuli bunting,lazb
-
-lesp,leconte's sparrow,lcsp
-lesp,leach's storm-petrel,lhsp,lesp
-lesp,least storm-petrel,ltsp,lstp
-
-mawa,macgillivray's warbler,mgwa
-mawa,magnolia warbler,mawa
-
-mgwa,middendorff's grasshopper warbler,migw,mgrw
-
-moqu,montezuma quail,monq
-moqu,mountain quail,mouq
-
-nobo,northern bobwhite,nobo
-nobo,northern boobook,nobb
-
-nosh,northern shoveler,nsho
-nosh,northern shrike,nshr
-
-pabu,painted bunting,pabu
-pabu,pallas's bunting,palb
-
-pifl,pine flycatcher,pinf
-pifl,piratic flycatcher,pirf
-
-prwa,prairie warbler,praw
-prwa,prothonotary warbler,prow
-
-rnph,red-necked phalarope,rnph
-rnph,ring-necked pheasant,rnep
-
-rote,royal tern,royt
-rote,roseate tern,rost
-
-sasp,savannah sparrow,savs
-sasp,sagebrush sparrow,sbsp,sabs
-sasp,saltmarsh sparrow,sals
-
-sbgu,slaty-backed gull,sbag,sbgu
-sbgu,short-billed gull,sbig
-
-sbor,spot-breasted oriole,spoo,sbor
-sbor,streak-backed oriole,stro,sbao
-
-stsa,stilt sandpiper,stsa
-stsa,sharp-tailed sandpiper,shas,spts
-
-stsh,short-tailed shearwater,shos,srts
-stsh,streaked shearwater,strs
-
-swsp,swamp sparrow,swsp
-swsp,swinhoe's storm-petrel,sstp
-
-trsw,tree swallow,tres
-trsw,trumpeter swan,trus
-
-wcpi,white-crowned pigeon,wcpi
-wcpi,white-cheeked pintail,whip,wchp
-
-wiwa,wilson's warbler,wiwa
-wiwa,willow warbler,wilw
-
-ybbu,yellow-breasted bunting,ybsb
-ybbu,yellow-browed bunting,ybwb
+,,,,
+blwa,blackburnian warbler,blbw,,
+blwa,blackpoll warbler,blpw,,
+,,,,
+brco,brandt's cormorant,brac,,
+brco,bronzed cowbird,broc,,
+,,,,
+brsp,brewer's sparrow,brsp,,
+brsp,band-rumped storm-petrel,banp,bstp,
+,,,,
+btgo,bar-tailed godwit,barg,btgo,
+btgo,black-tailed godwit,blag,btgd,
+,,,,
+btgw,black-throated green warbler,btnw,,
+btgw,black-throated gray warbler,btyw,,
+,,,,
+bush,bushtit,bush,,
+bush,buller's shearwater,buls,,
+,,,,
+cago,canada goose,cago,cang,
+cago,cackling goose,cacg,,
+,,,,
+cato,california towhee,calt,,
+cato,canyon towhee,cant,,
+,,,,
+cawr,carolina wren,carw,,
+cawr,cactus wren,cacw,,
+cawr,canyon wren,canw,,
+,,,,
+cewa,cedar waxwing,cedw,,
+cewa,cerulean warbler,cerw,,
+,,,,
+coch,common chaffinch,coch,ccha,
+coch,common chiffchaff,cchi,,
+,,,,
+cocr,common crane,ccra,,
+cocr,corn crake,corc,,
+,,,,
+cogr,common grackle,cogr,,
+cogr,common greenshank,cgre,comg,
+,,,,
+copo,common poorwill,copo,,
+copo,common pochard,cpoc,comp,
+,,,,
+cgdo,common ground dove,cogd,cgdo,
+,,,,
+core,common redshank,creh,,
+core,common redstart,cret,,
+,,,,
+cosh,cory's shearwater,cosh,,
+cosh,common shelduck,coms,,
+,,,,
+cowa,connecticut warbler,conw,,
+cowa,colima warbler,colw,,
+,,,,
+gbma,gray-breasted martin,gbma,gybm,
+gbma,green-breasted mango,grem,gnbm,
+,,,,
+gcwa,golden-cheeked warbler,gcwa,,
+gcwa,golden-crowned warbler,golw,gcrw,
+,,,,
+grhe,green heron,grhe,,
+grhe,gray heron,grah,,
+,,,,
+grki,gray kingbird,grak,,
+grki,great kiskadee,gkis,,
+grki,green kingfisher,gkin,,
+,,,,
+grpa,gray partridge,grap,,
+grpa,green parakeet,grep,,
+,,,,
+grsp,grasshopper sparrow,grsp,,
+grsp,greater sand-plover,gsap,,
+,,,,
+grwa,grace's warbler,grwa,,
+grwa,gray wagtail,graw,,
+,,,,
+labu,lark bunting,larb,,
+labu,lazuli bunting,lazb,,
+,,,,
+lesp,leconte's sparrow,lcsp,,
+lesp,leach's storm-petrel,lhsp,lesp,
+lesp,least storm-petrel,ltsp,lstp,
+,,,,
+mawa,macgillivray's warbler,mgwa,,
+mawa,magnolia warbler,mawa,,
+,,,,
+mgwa,middendorff's grasshopper warbler,migw,mgrw,
+,,,,
+moqu,montezuma quail,monq,,
+moqu,mountain quail,mouq,,
+,,,,
+nobo,northern bobwhite,nobo,,
+nobo,northern boobook,nobb,,
+,,,,
+nosh,northern shoveler,nsho,,
+nosh,northern shrike,nshr,,
+,,,,
+pabu,painted bunting,pabu,,
+pabu,pallas's bunting,palb,,
+,,,,
+pifl,pine flycatcher,pinf,,
+pifl,piratic flycatcher,pirf,,
+,,,,
+prwa,prairie warbler,praw,,
+prwa,prothonotary warbler,prow,,
+,,,,
+rnph,red-necked phalarope,rnph,,
+rnph,ring-necked pheasant,rnep,,
+,,,,
+rote,royal tern,royt,,
+rote,roseate tern,rost,,
+,,,,
+sasp,savannah sparrow,savs,,
+sasp,sagebrush sparrow,sbsp,sabs,
+sasp,saltmarsh sparrow,sals,,
+,,,,
+sbgu,slaty-backed gull,sbag,sbgu,
+sbgu,short-billed gull,sbig,,
+,,,,
+sbor,spot-breasted oriole,spoo,sbor,
+sbor,streak-backed oriole,stro,sbao,
+,,,,
+stsa,stilt sandpiper,stsa,,
+stsa,sharp-tailed sandpiper,shas,spts,
+,,,,
+stsh,short-tailed shearwater,shos,srts,
+stsh,streaked shearwater,strs,,
+,,,,
+swsp,swamp sparrow,swsp,,
+swsp,swinhoe's storm-petrel,sstp,,
+,,,,
+trsw,tree swallow,tres,,
+trsw,trumpeter swan,trus,,
+,,,,
+wcpi,white-crowned pigeon,wcpi,,
+wcpi,white-cheeked pintail,whip,wchp,
+,,,,
+wiwa,wilson's warbler,wiwa,,
+wiwa,willow warbler,wilw,,
+,,,,
+ybbu,yellow-breasted bunting,ybsb,,
+ybbu,yellow-browed bunting,ybwb,,

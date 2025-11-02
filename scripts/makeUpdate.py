@@ -154,7 +154,7 @@ for file in listdir(STATELIST_DIR):	# For each state checklist file
 				species = species[0:comment].strip()	# strip comments
 			if species == '':	# Skip over empty lines
 				continue
-			if species not in ABAlist:	# Species on Clements list but not ABA list
+			if species not in ABAlist:	# Species on master taxonomy list but not ABA list
 #				print("\n*** State", state, "includes non-ABA species", species)
 				badSpecies.append(species)
 				nonABAcount += 1
@@ -181,13 +181,13 @@ for species in specieslist:
 	if species in number_lookup:
 		number = number_lookup[species]
 		output[number] = mask
-	else:	# Species on ABA list but not Clements list
+	else:	# Species on ABA list but not master taxonomy list
 		stateList = []
 		for state in bits:
 			if mask & bits[state]:
 				stateList.append(state)
 		List = ', '.join(stateList)
-		print( "\nWarning: ABA species",species, "is not in Clements but listed by", List)
+		print( "\nWarning: ABA species",species, "is not in master taxonomy but listed by", List)
 
 # Generate the new STATE.SDT file
 fileText = open(STATE_SDT_TXT,'w')	# Human readable
