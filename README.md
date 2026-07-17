@@ -105,6 +105,7 @@ However, now I just edit my copy of the ABA checklist as necessary to substitute
     ruwa rüppell's warbler
     ruwe rüppell's weaver      dup
     ```
+1. Install [NSIS](https://nsis.sourceforge.io/Main_Page) on your PC.
 
 1. Copy (or move) these files to folder NSIS:
    ```
